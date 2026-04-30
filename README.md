@@ -1,2 +1,2 @@
-# foliage-disease-detection
-A computer vision project for foliage disease detection.
+# plant-disease-detection
+A computer vision project for plant disease detection.
