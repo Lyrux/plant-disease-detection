@@ -32,7 +32,8 @@ The project compares the baseline with different hyperparameter settings, primar
 
 ## Dataset
 
-This project uses a strawberry disease detection dataset imported from Kaggle. The original dataset contains image files and JSON annotation files. A preprocessing script converts the JSON polygon annotations into YOLO bounding box label format.
+This project uses a strawberry disease detection dataset imported from Kaggle. The original dataset contains image files and JSON annotation files. A preprocessing script converts the JSON polygon annotations into YOLO bounding box label format.  
+Dataset source: [Strawberry Disease Detection Dataset by Usman Afzaal on Kaggle](https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset)
 
 The dataset contains:
 
